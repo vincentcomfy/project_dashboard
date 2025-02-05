@@ -373,9 +373,3 @@ ul li:hover {
     cursor: pointer;
     -webkit-transform: scale(1.03);
 }
-
-
-
-/* CHANGE THE LAYOUT OF MAIN TO 2 FLEXBOX LAYOUTS
-ONE FLEXBOX LAYOUT FOR PROJECTS AND ONE FOR ANNOUNCEMENTS
-AND TRENDING */
